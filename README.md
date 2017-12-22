@@ -2,4 +2,4 @@
 * git clone 
 * cd Node-Mongodb-Express-demo/
 * npm install 
-* ./node_modules/.bin/grunt
+* ./node_modules/.bin/grunt 
